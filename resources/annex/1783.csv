@@ -1,0 +1,38 @@
+Tejas Document Number,Document Date,Annexure Number,Annexure Date,Serial Number,Item Description,Quantity,Carried Forward Balance,Balance From Previous Annexure,Job Worker DC Number,Date,Item Description,Board Quantity,Nature of Process Done,Per Board,Consumption,Total Consumption,Balance,Balance C/F to Annexure,Returned,Scrap
+2014264489,3/7/2015,1783,3/7/2015,1,999-AIC000065-E,1500,45,1736,96,13-Jun-15,170-PCA000003-E,35,ASSEMBLY,3,105,1014,531,1799,0,0
+,,,,,,,,,98,15-Jun-15,170-PCA000003-E,6,ASSEMBLY,3,18,,,,,
+,,,,,,,,,99,15-Jun-15,130-PCA000205-E,30,ASSEMBLY,2,60,,,,,
+,,,,,,,,,101,16-Jun-15,170-PCA000003-E,5,ASSEMBLY,3,15,,,,,
+,,,,,,,,,102,16-Jun-15,130-PCA000205-E,40,ASSEMBLY,2,80,,,,,
+,,,,,,,,,105,18-Jun-15,170-PCA000003-E,16,ASSEMBLY,3,48,,,,,
+,,,,,,,,,106,18-Jun-15,130-PCA000205-E,60,ASSEMBLY,2,120,,,,,
+,,,,,,,,,107,19-Jun-15,130-PCA000205-E,20,ASSEMBLY,2,40,,,,,
+,,,,,,,,,111,23-Jun-15,170-PCA000003-E,9,ASSEMBLY,3,27,,,,,
+,,,,,,,,,114,23-Jun-15,130-PCA000205-E,11,ASSEMBLY,2,22,,,,,
+,,,,,,,,,117,26-Jun-15,170-PCA000003-E,10,ASSEMBLY,3,30,,,,,
+,,,,,,,,,116,26-Jun-15,130-PCA000205-E,28,ASSEMBLY,2,56,,,,,
+,,,,,,,,,119,30-Jun-15,170-PCA000003-E,6,ASSEMBLY,3,18,,,,,
+,,,,,,,,,121,30-Jun-15,130-PCA000205-E,11,ASSEMBLY,2,22,,,,,
+,,,,,,,,,126,02-Jul-15,170-PCA000003-E,5,ASSEMBLY,3,15,,,,,
+,,,,,,,,,123,02-Jul-15,130-PCA000205-E,14,ASSEMBLY,2,28,,,,,
+,,,,,,,,,130,07-Jul-15,170-PCA000002-E,3,ASSEMBLY,11,33,,,,,
+,,,,,,,,,127,07-Jul-15,170-PCA000003-E,3,ASSEMBLY,3,9,,,,,
+,,,,,,,,,128,07-Jul-15,130-PCA000205-E,34,ASSEMBLY,2,68,,,,,
+,,,,,,,,,132,09-Jul-15,170-PCA000002-E,3,ASSEMBLY,11,33,,,,,
+,,,,,,,,,134,09-Jul-15,130-PCA000205-E,10,ASSEMBLY,2,20,,,,,
+,,,,,,,,,153,20-Jul-15,130-PCA000205-E,16,ASSEMBLY,2,32,,,,,
+,,,,,,,,,157,24-Jul-15,130-PCA000205-E,2,ASSEMBLY,2,4,,,,,
+,,,,,,,,,170,31-Jul-15,130-PCA000205-E,5,ASSEMBLY,2,10,,,,,
+,,,,,,,,,190,21-Sep-15,170-PCA000003-E,1,ASSEMBLY,3,3,,,,,
+,,,,,,,,,229,13-Jan-16,170-PCA000256-E,4,ASSEMBLY,3,12,,,,,
+,,,,,,,,,233,14-Jan-16,130-PCA000205-E,26,ASSEMBLY,2,52,,,,,
+,,,,,,,,,242,19-Jan-16,170-PCA000002-E,2,ASSEMBLY,11,22,,,,,
+,,,,,,,,,236,19-Jan-16,170-PCA000003-E,2,ASSEMBLY,3,6,,,,,
+,,,,,,,,,241,19-Jan-16,130-PCA000205-E,3,ASSEMBLY,2,6,,,,,
+
+
+,,Total Quantity,1545
+,,Total Consumption,1014
+,,Total Scrap,0
+,,Total Returned,0
+,,Total Balance,531

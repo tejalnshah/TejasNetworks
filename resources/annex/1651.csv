@@ -1,0 +1,36 @@
+Tejas Document Number,Document Date,Annexure Number,Annexure Date,Serial Number,Item Description,Quantity,Carried Forward Balance,Balance From Previous Annexure,Job Worker DC Number,Date,Item Description,Board Quantity,Nature of Process Done,Per Board,Consumption,Total Consumption,Balance,Balance C/F to Annexure,Returned,Scrap
+2014260088,2/17/2015,1651,2/17/2015,1,999-CFC000021-M,660,10,1342,232,02-Mar-15,104-PCA000001-E,60,ASSEMBLY,1,60,645,25,1907,0,0
+,,,,,,,,,234,03-Mar-15,104-PCA000001-E,80,ASSEMBLY,1,80,,,,,
+,,,,,,,,,237,04-Mar-15,104-PCA000001-E,110,ASSEMBLY,1,110,,,,,
+,,,,,,,,,241,05-Mar-15,104-PCA000001-E,117,ASSEMBLY,1,117,,,,,
+,,,,,,,,,243,06-Mar-15,104-PCA000001-E,54,ASSEMBLY,1,54,,,,,
+,,,,,,,,,248,07-Mar-15,115-PCA000037-E,1,ASSEMBLY,1,1,,,,,
+,,,,,,,,,254,09-Mar-15,104-PCA000001-E,34,ASSEMBLY,1,34,,,,,
+,,,,,,,,,256,12-Mar-15,104-PCA000001-E,67,ASSEMBLY,1,67,,,,,
+,,,,,,,,,263,13-Mar-15,115-PCA000037-E,5,ASSEMBLY,1,5,,,,,
+,,,,,,,,,258,13-Mar-15,104-PCA000001-E,3,ASSEMBLY,1,3,,,,,
+,,,,,,,,,267,14-Mar-15,115-PCA000037-E,4,ASSEMBLY,1,4,,,,,
+,,,,,,,,,279,17-Mar-15,115-PCA000037-E,3,ASSEMBLY,1,3,,,,,
+,,,,,,,,,280,17-Mar-15,115-PCA000037-E,1,ASSEMBLY,1,1,,,,,
+,,,,,,,,,283,18-Mar-15,115-PCA000037-E,1,ASSEMBLY,1,1,,,,,
+,,,,,,,,,295,19-Mar-15,115-PCA000037-E,1,ASSEMBLY,1,1,,,,,
+,,,,,,,,,306,25-Mar-15,104-PCA000001-E,5,ASSEMBLY,1,5,,,,,
+,,,,,,,,,309,26-Mar-15,115-PCA000037-E,11,ASSEMBLY,1,11,,,,,
+,,,,,,,,,311,26-Mar-15,104-PCA000001-E,5,ASSEMBLY,1,5,,,,,
+,,,,,,,,,319,27-Mar-15,104-PCA000001-E,10,ASSEMBLY,1,10,,,,,
+,,,,,,,,,321,28-Mar-15,104-PCA000001-E,35,ASSEMBLY,1,35,,,,,
+,,,,,,,,,326,30-Mar-15,115-PCA000037-E,5,ASSEMBLY,1,5,,,,,
+,,,,,,,,,337,30-Mar-15,115-PCA000037-E,15,ASSEMBLY,1,15,,,,,
+,,,,,,,,,370,31-Mar-15,104-PCA000001-E,3,ASSEMBLY,1,3,,,,,
+,,,,,,,,,372,31-Mar-15,104-PCA000001-E,4,ASSEMBLY,1,4,,,,,
+,,,,,,,,,3,07-Apr-15,104-PCA000001-E,5,ASSEMBLY,1,5,,,,,
+,,,,,,,,,15,17-Apr-15,104-PCA000001-E,3,ASSEMBLY,1,3,,,,,
+,,,,,,,,,25,22-Apr-15,104-PCA000001-E,2,ASSEMBLY,1,2,,,,,
+,,,,,,,,,30,04-May-15,104-PCA000001-E,1,ASSEMBLY,1,1,,,,,
+
+
+,,Total Quantity,670
+,,Total Consumption,645
+,,Total Scrap,0
+,,Total Returned,0
+,,Total Balance,25

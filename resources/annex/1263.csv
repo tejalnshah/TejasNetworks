@@ -1,0 +1,23 @@
+Tejas Document Number,Document Date,Annexure Number,Annexure Date,Serial Number,Item Description,Quantity,Carried Forward Balance,Balance From Previous Annexure,Job Worker DC Number,Date,Item Description,Board Quantity,Nature of Process Done,Per Board,Consumption,Total Consumption,Balance,Balance C/F to Annexure,Returned,Scrap
+2014249676,12/22/2014,1263,12/20/2015,1,998-BZA000857-X,384,12,1221,117,24-Dec-14,170-PCA000002-E,35,ASSEMBLY,6,210,390,6,1657,0,0
+,,,,,,,,,119,26-Dec-14,170-PCA000002-E,30,ASSEMBLY,6,180,,,,,
+2014249748,12/22/2014,1263,12/20/2015,2,999-AYC000556-E,210,12,1133,271,15-Mar-15,170-PCA000084-E,40,ASSEMBLY,1,40,195,18,1578,0,9
+,,,,,,,,,275,16-Mar-15,170-PCA000084-E,60,ASSEMBLY,1,60,,,,,
+,,,,,,,,,277,17-Mar-15,170-PCA000084-E,48,ASSEMBLY,1,48,,,,,
+,,,,,,,,,286,18-Mar-15,170-PCA000084-E,7,ASSEMBLY,1,7,,,,,
+,,,,,,,,,293,18-Mar-15,170-PCA000084-E,7,ASSEMBLY,1,7,,,,,
+,,,,,,,,,325,28-Mar-15,170-PCA000084-E,4,ASSEMBLY,1,4,,,,,
+,,,,,,,,,331,30-Mar-15,170-PCA000084-E,1,ASSEMBLY,1,1,,,,,
+,,,,,,,,,330,30-Mar-15,170-PCA000084-E,4,ASSEMBLY,1,4,,,,,
+,,,,,,,,,360,30-Mar-15,170-PCA000084-E,8,ASSEMBLY,1,8,,,,,
+,,,,,,,,,361,30-Mar-15,170-PCA000084-E,16,ASSEMBLY,1,16,,,,,
+2014249748,12/22/2014,1263,12/20/2015,3,999-BGC000022-E,25,3,1240,301,23-Mar-15,170-PCA000003-E,15,ASSEMBLY,1,15,25,3,1280,0,0
+,,,,,,,,,303,25-Mar-15,170-PCA000003-E,6,ASSEMBLY,1,6,,,,,
+,,,,,,,,,312,26-Mar-15,170-PCA000003-E,4,ASSEMBLY,1,4,,,,,
+
+
+,,Total Quantity,646
+,,Total Consumption,610
+,,Total Scrap,9
+,,Total Returned,0
+,,Total Balance,27

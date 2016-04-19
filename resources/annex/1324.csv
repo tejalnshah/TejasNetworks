@@ -1,0 +1,35 @@
+Tejas Document Number,Document Date,Annexure Number,Annexure Date,Serial Number,Item Description,Quantity,Carried Forward Balance,Balance From Previous Annexure,Job Worker DC Number,Date,Item Description,Board Quantity,Nature of Process Done,Per Board,Consumption,Total Consumption,Balance,Balance C/F to Annexure,Returned,Scrap
+2014252241,1/7/2015,1324,1/7/2015,1,999-CAC000554-E,264,32,1243,111,19-Dec-14,170-PCA000084-E,34,ASSEMBLY,1,34,288,8,1618,0,0
+,,,,,,,,,119,26-Dec-14,170-PCA000084-E,12,ASSEMBLY,1,12,,,,,
+,,,,,,,,,125,31-Dec-14,170-PCA000084-E,2,ASSEMBLY,1,2,,,,,
+,,,,,,,,,269,14-Mar-15,170-PCA000084-E,25,ASSEMBLY,1,25,,,,,
+,,,,,,,,,271,15-Mar-15,170-PCA000084-E,40,ASSEMBLY,1,40,,,,,
+,,,,,,,,,275,16-Mar-15,170-PCA000084-E,60,ASSEMBLY,1,60,,,,,
+,,,,,,,,,277,17-Mar-15,170-PCA000084-E,48,ASSEMBLY,1,48,,,,,
+,,,,,,,,,286,18-Mar-15,170-PCA000084-E,7,ASSEMBLY,1,7,,,,,
+,,,,,,,,,293,18-Mar-15,170-PCA000084-E,7,ASSEMBLY,1,7,,,,,
+,,,,,,,,,325,28-Mar-15,170-PCA000084-E,4,ASSEMBLY,1,4,,,,,
+,,,,,,,,,331,30-Mar-15,170-PCA000084-E,1,ASSEMBLY,1,1,,,,,
+,,,,,,,,,330,30-Mar-15,170-PCA000084-E,4,ASSEMBLY,1,4,,,,,
+,,,,,,,,,360,30-Mar-15,170-PCA000084-E,8,ASSEMBLY,1,8,,,,,
+,,,,,,,,,361,30-Mar-15,170-PCA000084-E,16,ASSEMBLY,1,16,,,,,
+,,,,,,,,,362,30-Mar-15,170-PCA000084-E,20,ASSEMBLY,1,20,,,,,
+2014252241,1/7/2015,1324,1/7/2015,2,999-CFC000119-M,36,0,1144,261,13-Mar-15,130-PCA000207-E,1,ASSEMBLY,1,1,32,3,1907,1,0
+,,,,,,,,,284,18-Mar-15,130-PCA000207-E,1,ASSEMBLY,1,1,,,,,
+,,,,,,,,,291,19-Mar-15,130-PCA000207-E,3,ASSEMBLY,1,3,,,,,
+,,,,,,,,,344,30-Mar-15,130-PCA000207-E,6,ASSEMBLY,1,6,,,,,
+,,,,,,,,,345,30-Mar-15,130-PCA000207-E,10,ASSEMBLY,1,10,,,,,
+,,,,,,,,,346,30-Mar-15,130-PCA000207-E,5,ASSEMBLY,1,5,,,,,
+,,,,,,,,,42,18-May-15,130-PCA000207-E,2,ASSEMBLY,1,2,,,,,
+,,,,,,,,,45,19-May-15,130-PCA000207-E,1,ASSEMBLY,1,1,,,,,
+,,,,,,,,,49,22-May-15,130-PCA000207-E,1,ASSEMBLY,1,1,,,,,
+,,,,,,,,,196,21-Sep-15,130-PCA000207-E,1,ASSEMBLY,1,1,,,,,
+,,,,,,,,,198,25-Sep-15,130-PCA000207-E,1,ASSEMBLY,1,1,,,,,
+2014252241,1/7/2015,1324,1/7/2015,3,999-CJC000003-M,7,1,1137,,,,,,,,0,8,31,0,0
+
+
+,,Total Quantity,340
+,,Total Consumption,320
+,,Total Scrap,0
+,,Total Returned,1
+,,Total Balance,19

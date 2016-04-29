@@ -1,11 +1,11 @@
 Tejas Document Number,Document Date,Annexure Number,Annexure Date,Serial Number,Item Description,Quantity,Carried Forward Balance,Balance From Previous Annexure,Job Worker DC Number,Date,Item Description,Board Quantity,Nature of Process Done,Per Board,Consumption,Total Consumption,Balance,Balance C/F to Annexure,Returned,Scrap
-2014258768,2/13/2015,1629,2/13/2015,1,160-PCC000042-E,20,0,,33,08-May-15,160-PCA000049-L,6,ASSEMBLY,1,6,6,0,,10,4
+2014258768,2/13/2015,1629,2/13/2015,1,160-PCC000042-E,20,0,,33,08-May-15,160-PCA000049-L,6,ASSEMBLY,1,6,6,0,,14,0
 2014258768,2/13/2015,1629,2/13/2015,2,999-BGC000050-E,10,124,1578,,,,,,,,0,0,,134,0
 2014258768,2/13/2015,1629,2/13/2015,3,999-CLC000014-E,150,1,1550,,,,,,,,0,0,,150,1
 
 
 ,,Total Quantity,305
 ,,Total Consumption,6
-,,Total Scrap,5
-,,Total Returned,294
+,,Total Scrap,1
+,,Total Returned,298
 ,,Total Balance,0

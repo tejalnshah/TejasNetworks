@@ -384,7 +384,7 @@ Tejas Document Number,Document Date,Annexure Number,Annexure Date,Serial Number,
 ,,,,,,,,,262,13-Mar-15,115-PCA000084-E,3,ASSEMBLY,3,9,,,,,
 ,,,,,,,,,261,13-Mar-15,130-PCA000207-E,1,ASSEMBLY,2,2,,,,,
 ,,,,,,,,,259,13-Mar-15,104-PCA000004-E,1,ASSEMBLY,2,2,,,,,
-2014252700,1/10/2015,1345,1/10/2015,49,999-CAC000086-E,75,0,1239,295,19-Mar-15,115-PCA000037-E,1,ASSEMBLY,2,2,66,7,1523,2,0
+2014252700,1/10/2015,1345,1/10/2015,49,999-CAC000086-E,75,0,1239,295,19-Mar-15,115-PCA000037-E,1,ASSEMBLY,2,2,66,0,1523,9,0
 ,,,,,,,,,309,26-Mar-15,115-PCA000037-E,11,ASSEMBLY,2,22,,,,,
 ,,,,,,,,,326,30-Mar-15,115-PCA000037-E,5,ASSEMBLY,2,10,,,,,
 ,,,,,,,,,337,30-Mar-15,115-PCA000037-E,15,ASSEMBLY,2,30,,,,,
@@ -414,5 +414,5 @@ Tejas Document Number,Document Date,Annexure Number,Annexure Date,Serial Number,
 ,,Total Quantity,42878
 ,,Total Consumption,29725
 ,,Total Scrap,955
-,,Total Returned,147
-,,Total Balance,12051
+,,Total Returned,154
+,,Total Balance,12044

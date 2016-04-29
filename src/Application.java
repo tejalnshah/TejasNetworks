@@ -27,10 +27,13 @@ public class Application {
         Dispatch dispatch = new Dispatch();
 
         Returned returnedComponents = new Returned();
+        
+        ReadResults readResults = new ReadResults();
 
         List<Results> results = new ArrayList<Results>();
 
         List<String[]> consumptionRows = consumption.getConsumtpionRows();
+        List<String[]> resultsRows = readResults.getResultsRows();
         String[] headers = consumption.getConsumptionHeaders();
 
         LinkedHashMap<String, ArrayList<Results>> resultsMap = new LinkedHashMap<String, ArrayList<Results>>();
@@ -43,10 +46,50 @@ public class Application {
 
         LinkedHashMap<String, ArrayList<String>> openAnnexuresMap = new LinkedHashMap<String, ArrayList<String>>();
 
+        
+        for( String[] resultsRow : resultsRows) {
+        	
+        	String component = resultsRow[0];
+        	String dispatchBoard = resultsRow[1];
+        	String invNumber = resultsRow[2];
+            String invDate = resultsRow[3];
+            String boardQuantity = resultsRow[4];
+            String compQuantity = resultsRow[5];
+            String totalQuantity = resultsRow[6];
+            
+            Results newResult = new Results(
+                    component,
+                    dispatchBoard,
+                    invNumber,
+                    invDate,
+                    boardQuantity,
+                    compQuantity,
+                    totalQuantity);
+
+            if (!(newResult.checkIfSame(results))) {
+
+                results.add(newResult);
+
+                if (resultsMap.containsKey(component)) {
+                    // Add this results object to it arraylist value
+                    (resultsMap.get(component)).add(newResult);
+                } else {
+                    // Put this component - results obj in a key - value pair
+                    ArrayList<Results> resultsArrayList = new ArrayList<Results>();
+                    resultsArrayList.add(newResult);
+                    resultsMap.put(component, resultsArrayList);
+                }
+            }
+
+        }
+        
+        
         for (String[] consumptionRow : consumptionRows) {
             String component = consumptionRow[0];
             componentBacklogList.put(component, 0);
-            for (int index = 2; index < consumptionRow.length; index++) {
+            
+            
+/*            for (int index = 2; index < consumptionRow.length; index++) {
                 if (consumptionRow[index] != null) {
                     String board = headers[index];
                     String compQuantity = consumptionRow[index];
@@ -93,7 +136,7 @@ public class Application {
                         }
                     }
                 }
-            }
+            }*/
         }
 
         // Arrange the Results
@@ -102,7 +145,7 @@ public class Application {
             Collections.sort(resultsArrayList);
         }
 
-        ArrayList<Results> forPrinting = new ArrayList<Results>();
+/*        ArrayList<Results> forPrinting = new ArrayList<Results>();
         for (ArrayList<Results> resultsArrayList : resultsMap.values()) {
             for (Results eachResult : resultsArrayList) {
                 forPrinting.add(eachResult);
@@ -119,7 +162,7 @@ public class Application {
             writer.close();
         } catch (FileNotFoundException | UnsupportedEncodingException e) {
             e.printStackTrace();
-        }
+        }*/
 
         // Read Annexure Updation
         ReadUpdatedAnnexure annexureUpdation = new ReadUpdatedAnnexure();
